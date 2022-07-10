@@ -1,1 +1,130 @@
+2022-07-10 11:58:47,343 **************************************************************************************
+2022-07-10 11:58:47,345 **** These tasks are about string... ****
 
+2022-07-10 11:58:47,345 Q - Try to extract data from index one to index 300 with a jump of 3
+2022-07-10 11:58:47,345 tssyityopgmncsa alrnph rgni ni
+2022-07-10 11:58:47,345 Q - Try to reverse a string without using reverse function
+2022-07-10 11:58:47,345 noitcnuf sti dna gnirts nohtyp gninrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+2022-07-10 11:58:47,345 Q - Try to split a string after conversion of entire string in uppercase.
+2022-07-10 11:58:47,345 ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+2022-07-10 11:58:47,346 Q - Try to convert the whole string into lower case.
+2022-07-10 11:58:47,346 this is my first python programming class and i am learning python string and its function
+2022-07-10 11:58:47,346 Q - Try to capitalize the whole string.
+2022-07-10 11:58:47,346 This is my first python programming class and i am learning python string and its function
+2022-07-10 11:58:47,346 Q - Check the given str is alpha numeric or not
+2022-07-10 11:58:47,346 True
+2022-07-10 11:58:47,346 Q - Check the given string contain only alphabet or not
+2022-07-10 11:58:47,346 False
+2022-07-10 11:58:47,347 Q - Try to give an example of expand tab.
+2022-07-10 11:58:47,348 class   and     object
+2022-07-10 11:58:47,348 Q - Give an example of strip, lstrip and rstrip
+2022-07-10 11:58:47,348 Removing white space from both side of string
+2022-07-10 11:58:47,348 suni
+2022-07-10 11:58:47,348 Removing white space from left side of string
+2022-07-10 11:58:47,349 suni        
+2022-07-10 11:58:47,349 Removing white space from right side of string
+2022-07-10 11:58:47,349           suni
+2022-07-10 11:58:47,349 Q - Replace a string charecter by another charecter by taking your own example.
+2022-07-10 11:58:47,349 suni
+2022-07-10 11:58:47,349 Q - Try  to give an example of string center function.
+2022-07-10 11:58:47,349 --------suni--------
+2022-07-10 11:58:47,349 
+
+2022-07-10 11:58:47,350 **************************************************************************************
+2022-07-10 11:58:47,350 **** These tasks are about list... ****
+
+2022-07-10 11:58:47,350 Q - Try to reverse a list without using reverse funcion
+2022-07-10 11:58:47,350 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+2022-07-10 11:58:47,350 Q - try to access 456 from the list without using loop
+2022-07-10 11:58:47,350 456
+2022-07-10 11:58:47,350 Q - try to access 234 out of this list with out using loop
+2022-07-10 11:58:47,350 234
+2022-07-10 11:58:47,351 Q - Try to extract list collection form list l without using loop
+2022-07-10 11:58:47,351 It's the 1st list from list l
+2022-07-10 11:58:47,351 [23, 456, 67, 8, 78, 78]
+2022-07-10 11:58:47,351 It's the 2nd list from list l
+2022-07-10 11:58:47,351 [345, 56, 87, 8, 98, 9]
+2022-07-10 11:58:47,351 It's the 3rd list from list l
+2022-07-10 11:58:47,351 [23, 45, 656]
+2022-07-10 11:58:47,351 Q - Try to extract 'sudh' from the list
+2022-07-10 11:58:47,351 sudh
+2022-07-10 11:58:47,351 Q - Try to list separetly all the keys and values in dict element available in list
+2022-07-10 11:58:47,352 Keys in dict element available in list are -
+2022-07-10 11:58:47,352 dict_keys(['key1', 234])
+2022-07-10 11:58:47,352 Values in dict element available in list are -
+2022-07-10 11:58:47,352 dict_values(['sudh', [23, 45, 656]])
+2022-07-10 11:58:47,352 Q - Try to extract all the list entity from the list
+2022-07-10 11:58:47,352 [[1, 2, 3, 4], [2, 3, 4, 5, 6], [3, 4, 5, 6, 7], [45, 4, 5, 23], ['k1', 'k2', 'k3', 3, 7], ['ineuron', 'data science']]
+2022-07-10 11:58:47,352 Q - Try to extract all the numerical data it may be a part of dict key and values
+2022-07-10 11:58:47,352 [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 3, 6, 7, 8]
+2022-07-10 11:58:47,352 Q - Try to give summation of all the numeric data
+2022-07-10 11:58:47,352 156
+2022-07-10 11:58:47,352 Q - Try to filter out all the odd values out all numeric data which is a part of a list
+2022-07-10 11:58:47,352 1
+2022-07-10 11:58:47,352 3
+2022-07-10 11:58:47,352 3
+2022-07-10 11:58:47,352 5
+2022-07-10 11:58:47,352 3
+2022-07-10 11:58:47,352 5
+2022-07-10 11:58:47,352 7
+2022-07-10 11:58:47,352 45
+2022-07-10 11:58:47,352 5
+2022-07-10 11:58:47,352 23
+2022-07-10 11:58:47,352 3
+2022-07-10 11:58:47,352 7
+2022-07-10 11:58:47,352 Q - Try to extract 'ineuron' out of this data
+2022-07-10 11:58:47,352 ['ineuron', 'ineuron']
+2022-07-10 11:58:47,352 Q - Try to find out the occurance of all the data
+2022-07-10 11:58:47,352 1 : 1
+2022-07-10 11:58:47,352 2 : 2
+2022-07-10 11:58:47,352 3 : 4
+2022-07-10 11:58:47,352 4 : 4
+2022-07-10 11:58:47,352 5 : 3
+2022-07-10 11:58:47,352 6 : 3
+2022-07-10 11:58:47,352 7 : 2
+2022-07-10 11:58:47,352 sudh : 1
+2022-07-10 11:58:47,352 ineuron : 2
+2022-07-10 11:58:47,352 k3 : 1
+2022-07-10 11:58:47,352 kumar : 1
+2022-07-10 11:58:47,352 8 : 1
+2022-07-10 11:58:47,352 45 : 1
+2022-07-10 11:58:47,352 data science : 1
+2022-07-10 11:58:47,352 k2 : 1
+2022-07-10 11:58:47,352 23 : 1
+2022-07-10 11:58:47,352 k1 : 1
+2022-07-10 11:58:47,352 Q - Try to filter out all the string data
+2022-07-10 11:58:47,352 ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science']
+2022-07-10 11:58:47,352 Q - Try to find out the alphanum in data
+2022-07-10 11:58:47,352 k1
+2022-07-10 11:58:47,352 sudh
+2022-07-10 11:58:47,352 k2
+2022-07-10 11:58:47,352 ineuron
+2022-07-10 11:58:47,352 k3
+2022-07-10 11:58:47,352 kumar
+2022-07-10 11:58:47,352 ineuron
+2022-07-10 11:58:47,352 Q - Try to find out multiplication of all the numeric value in the individual collection inside dataset
+2022-07-10 11:58:47,352 <class 'list'> : 24
+2022-07-10 11:58:47,352 <class 'tuple'> : 720
+2022-07-10 11:58:47,352 <class 'tuple'> : 2520
+2022-07-10 11:58:47,352 <class 'set'> : 20700
+2022-07-10 11:58:47,352 <class 'dict'> : 1008
+2022-07-10 11:58:47,352 <class 'list'> : 1
+2022-07-10 11:58:47,352 Q - Try to unwrape all the collection inside the collection and creat a flat list.
+2022-07-10 11:58:47,352 [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 3, 6, 7, 8, 'ineuron', 'data science']
+2022-07-10 11:58:47,352 
+
+2022-07-10 11:58:47,352 **************************************************************************************
+2022-07-10 11:58:47,352 **** This task is about tuple.... ****
+
+2022-07-10 11:58:47,352 Q -  Try to extract all the tuple entity from the given list
+2022-07-10 11:58:47,359 (2, 3, 4, 5, 6)
+2022-07-10 11:58:47,359 (3, 4, 5, 6, 7)
+2022-07-10 11:58:47,359 
+
+2022-07-10 11:58:47,359 **************************************************************************************
+2022-07-10 11:58:47,359 **** These tasks are about dictionary element... ****
+
+2022-07-10 11:58:47,359 Q - Try to extract all the dicttionay entity from the given list
+2022-07-10 11:58:47,359 {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+2022-07-10 11:58:47,360 Q - Try to find out no.of keys in dict element
+2022-07-10 11:58:47,360 5
