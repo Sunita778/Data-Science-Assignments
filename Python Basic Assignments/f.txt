@@ -1,0 +1,1 @@
+If we open an existing file in write mode, the previous data will be earsed, the object will be positioned at the beginning of file.
