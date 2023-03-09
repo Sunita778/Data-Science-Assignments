@@ -3,7 +3,7 @@ import pymongo
 
 app = Flask(__name__)
 
-client = pymongo.MongoClient("mongodb+srv://Sunita7:Sunita778@cluster0.t5kpe6z.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://sjkdh7:sjkdh8345@cluster0.t5kpe6z.mongodb.net/?retryWrites=true&w=majority")
 
 database = client['task_mongo']
 collection = database['task_collection']
