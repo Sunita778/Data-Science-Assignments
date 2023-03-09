@@ -50,7 +50,7 @@ SHOW GLOBAL VARIABLES LIKE 'local_infile';
 set global local_infile = 1;
 
 load data local infile
-'C:/Users/sssun/Sunita/FSDSB/Python Live Classes/Tasks/Attribute_DataSet.csv'
+'/Attribute_DataSet.csv'
 into table attribute_data
 fields terminated by ','
 enclosed by '"'
@@ -58,7 +58,7 @@ lines terminated by '\n'
 ignore 1 rows;
 
 load data local infile
-'C:/Users/sssun/Sunita/FSDSB/Python Live Classes/Tasks/Dress_Sales.csv'
+'/Dress_Sales.csv'
 into table dress_data
 fields terminated by ','
 enclosed by '"'
